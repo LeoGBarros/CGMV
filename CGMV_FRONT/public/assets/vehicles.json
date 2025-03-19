@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "brand": "Fiat",
+    "model": "Pulse",
+    "price": "R$ 96.300,00",
+    "location": "Localiza Seminovos",
+    "date": "23/03/2024",
+    "image": "/public/assets/images/pulse.png",
+    "seller": {
+      "name": "João Silva",
+      "phone": "(11) 99999-9999",
+      "email": "joao@email.com"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Peugeot",
+    "model": "208",
+    "price": "R$ 74.900,00",
+    "location": "Localiza Seminovos",
+    "date": "21/03/2024",
+    "image": "/public/assets/images/pegeout.png",
+    "seller": {
+      "name": "Maria Souza",
+      "phone": "(11) 98888-8888",
+      "email": "maria@email.com"
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Elantra",
+    "model": "208",
+    "price": "R$ 74.900,00",
+    "location": "Localiza Seminovos",
+    "date": "21/03/2024",
+    "image": "/public/assets/images/pegeout.png",
+    "seller": {
+      "name": "Maria Souza",
+      "phone": "(11) 98888-8888",
+      "email": "maria@email.com"
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Tiggo",
+    "model": "208",
+    "price": "R$ 74.900,00",
+    "location": "Localiza Seminovos",
+    "date": "21/03/2024",
+    "image": "/public/assets/images/pegeout.png",
+    "seller": {
+      "name": "Maria Souza",
+      "phone": "(11) 98888-8888",
+      "email": "maria@email.com"
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Civic",
+    "model": "208",
+    "price": "R$ 74.900,00",
+    "location": "Localiza Seminovos",
+    "date": "21/03/2024",
+    "image": "/public/assets/images/pegeout.png",
+    "seller": {
+      "name": "Maria Souza",
+      "phone": "(11) 98888-8888",
+      "email": "maria@email.com"
+    }
+  }
+]

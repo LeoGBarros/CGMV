@@ -1,0 +1,34 @@
+.vehicle-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.vehicle-image {
+  width: 100%;
+  height: auto;
+}
+
+.favorite-icon {
+  cursor: pointer;
+  color: gray;
+}
+
+.favorite {
+  color: red;
+}
+
+.modal {
+  background: white;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.search-bar {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
